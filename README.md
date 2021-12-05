@@ -1,4 +1,4 @@
-## Hello World, Aqui é o Henrique, Muito prazer! Sinta-se a vontade para dar aquela "stalkeada" 
+## Hello World, Aqui é o Henrique, Tudo bem? Sinta-se a vontade para dar aquela "stalkeada" 
 <div align="center">
   <a href="https://github.com/henriquelanzoni">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=henriquelanzoni&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
